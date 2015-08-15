@@ -1,0 +1,50 @@
+table{	
+		margin-top: 10%;
+		margin-right: 20%;
+		margin-left: 20%;
+		margin-bottom: 10%;
+
+}
+.name{
+	width: 80px;
+	border: none;
+	padding-bottom: 40%;
+	height: 150%;
+}
+.desc{
+	border-left: 1px solid;
+	border-color: gray;
+	display: inline-block;
+	margin-left: 20%;
+	padding-bottom: 40%;
+}
+a:link, a:visited{
+	text-decoration: none;
+	display: inline-block;
+	color: #999999;
+	background-color: #ffffff;
+	width: 11%;
+	padding-top: 0.5%;
+	padding-bottom: 0.5%;
+	text-align: center;
+	margin-left: 2%;
+	margin-right: 2%;
+}
+a:hover, a:active {
+	color: #ffffff;
+    background-color: #999999;
+}
+#footer{
+	position: fixed;
+	width: 100%;
+	bottom: 4%;
+	
+}
+
+.navbar{
+	padding-top: 2.5%;
+}
+
+li{
+	display: inline;
+}
